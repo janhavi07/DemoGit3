@@ -1,5 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
         System.out.printf("Hey world");
+        System.out.printf("You are beautiful");
     }
 }
