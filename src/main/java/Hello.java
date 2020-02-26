@@ -5,5 +5,6 @@ public class Hello {
         String tw="Crazy minds";
         System.out.printf("Hey world");
         System.out.printf("You are beautiful");
+        System.out.printf(text1);
     }
 }
